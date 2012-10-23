@@ -1,0 +1,15 @@
+Put dvdauthor.py, Pydvdauthor.py, Pydvdauthor_curses.py, and Pydvdauthor_wxPython.py in the same directory.
+
+Then what you type depends on what type of interface you want.  If you want A completely text-based interface, type:
+
+python Pydvdauthor.py
+
+If you want a semi-GUI in the commandline via ncurses, type:
+
+python Pydvdauthor_curses.py
+
+If you want a full-fledged GUI, type:
+
+python Pydvdauthor_wxPython.py
+
+ENJOY!

@@ -1,0 +1,5 @@
+TODO
+
+-In dvdauthor.py - make it so that the xml file can be saved anywhere instead of hardcoding the path
+-In dvdauthor.py - add ability to create menus
+-In the user interfaces ask the user if they want the program to run dvdauthor for them

@@ -1,0 +1,13 @@
+Changelog
+
+5 Feb 2008
+v0.1.6
+-added ncurses interface and GUI via wxPython
+
+10 May 2006
+v0.1.5
+-via while loop, the program will now keep asking the user if everything is correct until he or she says it is
+
+5 May 2006
+v0.1
+Created the first version and set things up
